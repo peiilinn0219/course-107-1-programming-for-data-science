@@ -98,9 +98,6 @@ round(hwData$early)
 作業1（即作業代碼為"hw1"）準時交的人中，他們的提早天數分佈如何？請使用`table()`呈現。
 
 ```{r ans25}
-table(hwData$early>0) -> v
-table(hwData[2] = 'hw1') -> b
-
 
 
 ```
